@@ -6,7 +6,7 @@ HowWillYouMove
   1. 1 ηλιακό πάνελ (solar panel) 5v
   2. 1 arduino uno
   3. 1 ultrasonic sensor HC-SR04
-  4. 1 dc motor 3v/1.5v
+  4. 1 dc motor 3/6v
   5. 3d printed parts
   6. 1 επαναφορτιζόμενη μπαταρία lipo 3.6v
   7. 1 solar power manager 5v
