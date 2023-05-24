@@ -11,7 +11,6 @@ pinMode(motorPin, OUTPUT);
 Serial.begin(9600);
 
 }
-
 void loop() {
 
 delay(2000); 
@@ -27,13 +26,7 @@ delay(2000);
     digitalWrite(motorPin, LOW);
     
   }
-
-
-
-  
 }
-
-
 long readUltrasonicDistance(int triggerPin, int echoPin)
 {
   pinMode(triggerPin, OUTPUT);  
